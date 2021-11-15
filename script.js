@@ -1,5 +1,5 @@
 let i = 0, text;
-
+ 
 text = "It's simple but I will make it better";
 
 function typing(){
